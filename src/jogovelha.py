@@ -5,7 +5,7 @@ def inicializar():
 	for i in range(3):
 		linha = []
 		for j in range(3):
-			linha.append(".")
+			linha.append("X")
 		tab.append(linha)
 	return tab
 
